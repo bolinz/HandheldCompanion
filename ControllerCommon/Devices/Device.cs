@@ -111,6 +111,9 @@ namespace ControllerCommon.Devices
                             case "AYANEO 2":
                                 device = new AYANEO2();
                                 break;
+                            case "GEEK":
+                                device = new AYAGEEK();
+                                break;
                         }
                     }
                     break;
