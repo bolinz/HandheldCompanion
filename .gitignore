@@ -4,3 +4,5 @@ install/
 .vs/
 *.user
 *Backup.csproj
+/HandheldCompanion/Properties/launchSettings.json
+/ControllerService/Properties/launchSettings.json
